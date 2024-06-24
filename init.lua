@@ -1,5 +1,5 @@
 require('config.xotovim')
-require('utils.globals')
+require('utils.cross')
 require('utils.functions')
 require('config.options')
 require('config.lazy')
