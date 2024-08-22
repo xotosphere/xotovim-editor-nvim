@@ -51,13 +51,6 @@ Dashboard
 
 ![Dashboard](./.screenshots/1-alpha.png)
 
-## Requirements ⚡️
-
-```bash
-# install nvim 8 or higher
-bash <(curl -s https://raw.githubusercontent.com/xotosphere/xotovim/development/.install/nvim.sh)
-```
-
 
 ## Installation ⚡️
 
